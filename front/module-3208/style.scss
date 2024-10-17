@@ -1,0 +1,15 @@
+.product-detail{
+    max-width: 760px;
+}
+
+.product-detail{
+    .name{
+        font-size: 34px;
+    }
+}
+
+.numberInput::-webkit-inner-spin-button, 
+.numberInput::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
